@@ -1,0 +1,9 @@
+[network]
+url = https://api.github.com
+token = <token>
+owner = <user-name>
+proxy =
+
+[origin-project]
+repogitory = 
+project-name =
